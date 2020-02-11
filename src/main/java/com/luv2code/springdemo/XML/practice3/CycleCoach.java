@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.practice3;
+package com.luv2code.springdemo.XML.practice3;
 
 public class CycleCoach implements Coach {
     @Override

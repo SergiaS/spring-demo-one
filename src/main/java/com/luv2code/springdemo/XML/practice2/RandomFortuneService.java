@@ -1,6 +1,6 @@
-package com.luv2code.springdemo.practice2;
+package com.luv2code.springdemo.XML.practice2;
 
-import com.luv2code.springdemo.FortuneService;
+import com.luv2code.springdemo.XML.FortuneService;
 
 import java.util.Random;
 

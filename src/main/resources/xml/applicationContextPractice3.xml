@@ -16,7 +16,7 @@
 
     <!-- Define your beans here -->
     <bean id="cycleCoach"
-          class="com.luv2code.springdemo.practice3.CycleCoach"
+          class="com.luv2code.springdemo.XML.practice3.CycleCoach"
           scope="singleton">
     </bean>
 

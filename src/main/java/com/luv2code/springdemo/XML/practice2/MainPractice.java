@@ -1,11 +1,11 @@
-package com.luv2code.springdemo.practice2;
+package com.luv2code.springdemo.XML.practice2;
 
-import com.luv2code.springdemo.Coach;
+import com.luv2code.springdemo.XML.Coach;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class MainPractice {
     public static void main(String[] args) {
-        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContextPractice2.xml");
+        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("xml/applicationContextPractice2.xml");
 
 //        RandomFortuneService randomFortuneService = context.getBean("randomFortuneService", RandomFortuneService.class);
 //

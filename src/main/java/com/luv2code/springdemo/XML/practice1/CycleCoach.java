@@ -1,6 +1,6 @@
-package com.luv2code.springdemo.practice1;
+package com.luv2code.springdemo.XML.practice1;
 
-import com.luv2code.springdemo.Coach;
+import com.luv2code.springdemo.XML.Coach;
 
 public class CycleCoach implements Coach {
 
