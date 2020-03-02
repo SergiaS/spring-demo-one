@@ -14,5 +14,7 @@
 
     The message : ${message}
 
+
+    <img src="${pageContext.request.contextPath}/resources/pictures/tests/screen1.png" width="20" height="20">
 </body>
 </html>
