@@ -12,11 +12,11 @@ public class Student {
         this.firstName = firstName;
     }
 
-    public String getLasttName() {
+    public String getLastName() {
         return lasttName;
     }
 
-    public void setLasttName(String lasttName) {
-        this.lasttName = lasttName;
+    public void setLastName(String lastName) {
+        this.lasttName = lastName;
     }
 }
