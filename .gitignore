@@ -9,4 +9,4 @@ target
 *.iml
 log
 *.patch
-/src/main/webapp/resources/pictures/
+/src/resources/pictures/
